@@ -77,14 +77,13 @@ public class Raven {
 	public static boolean debugger;
     public static final VersionManager versionManager = new VersionManager();
     public static CommandManager commandManager;
-    public static final String sourceLocation = "https://github.com/K-ov/Raven-bPLUS";
-    public static final String downloadLocation = "https://github.com/K-ov/Raven-bPLUS/raw/stable/build/libs/%5B1.8.9%5D%20BetterKeystrokes%20V-1.2.jar";
-    public static final String discord = "https://discord.gg/UqJ8ngteud";
+    public static final String sourceLocation = "https://github.com/Mau-l/Mau-v1";
+    public static final String downloadLocation = "https://github.com/Mau-l/Mau-v1/releases/download/v0.1/Mau.v-0.1.jar";
+    public static final String discord = "https://discord.gg/test";
     public static String[] updateText = {
-            "Your version of Raven B++ (" + versionManager.getClientVersion().toString() + ") is outdated!",
-            "Enter the command update into client CommandLine to open the download page",
-            "or just enable the update module to get a message in chat.", "",
-            "Newest version: " + versionManager.getLatestVersion().toString() };
+            "Tu version de Mau v1 (" + versionManager.getClientVersion().toString() + ") está desactualizada!",
+            "",
+            "Version actualizada: " + versionManager.getLatestVersion().toString() };
     public static ConfigManager configManager;
     public static ClientConfig clientConfig;
 
