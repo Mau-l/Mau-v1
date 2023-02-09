@@ -1,0 +1,17 @@
+[
+    {
+        "modid": "mau",
+        "name": "Mau",
+        "description": "You know...",
+        "version": "0.1",
+        "url": "https://github.com/mau-l",
+        "updateUrl": "",
+        "authorList": [
+            "Mau"
+        ],
+        "credits": "Nothing",
+        "logoFile": "mau.png",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
