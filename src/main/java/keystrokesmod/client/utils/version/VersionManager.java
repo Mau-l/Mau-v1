@@ -12,7 +12,7 @@ public class VersionManager {
 	private final String versionFilePath = "/assets/keystrokesmod/version";
 	private final String branchFilePath = "/assets/keystrokesmod/branch";
     private final String versionUrl = "https://raw.githubusercontent.com/Mau-l/Mau-v1/wtf/src/main/resources/assets/keystrokesmod/version";
-    private final String branchUrl = "https://raw.githubusercontent.com/Mau-l/Mau-v1/wtf/src/main/resources/assets/keystrokesmod/branch?";
+    private final String branchUrl = "https://raw.githubusercontent.com/Mau-l/Mau-v1/wtf/src/main/resources/assets/keystrokesmod/branch";
 
     private Version latestVersion;
     private Version clientVersion;
